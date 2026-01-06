@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KoteswaraRaoThumma/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
